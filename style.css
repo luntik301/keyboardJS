@@ -1,0 +1,59 @@
+body {
+    background-color: #cfe2f3;
+    margin: 0;
+}
+
+.button {
+    height: 25px;
+    width: 23px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    height: 10px;
+    width: 10px;
+}
+
+.display {
+    height: 180px;
+    width: 345px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+#space {
+    width: 78px;
+}
+
+p {
+    margin: 0 10px;
+}
+
+.inputDisplay {
+    word-break: break-all;
+}
+
+.keyboard {
+    margin-left: calc(50vw - 173px);
+    margin-top: 20px;
+}
+
+.display {
+    background-color: #9fc5e8;
+}
+
+h1 {
+    width: 345px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.info {
+    font-size: 8px;
+    margin-bottom: 10px;
+    margin-top: 100px;
+    color: #bcbcbc;
+
+}
